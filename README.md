@@ -89,8 +89,6 @@ Significa quantos milissegundos a faixa foi ouvida.
       * Musicas tocadas mais vezes
       
       
-## Diagrama Relacional
-[![Captura-de-tela-2021-10-01-112320.jpg](https://i.postimg.cc/jS9VJLNG/Captura-de-tela-2021-10-01-112320.jpg)](https://postimg.cc/dh8NbQ5B)
 
 
 ## Conclusão
